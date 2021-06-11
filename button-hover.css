@@ -1,0 +1,13 @@
+.a .btn {
+    background-color: gainsboro;
+    color: black;
+    transition: all 1s ease;
+}
+.a:hover .btn  {
+    background-color: black;
+    color: whitesmoke;
+    box-shadow: tomato 5px 7px;
+    
+}
+
+
